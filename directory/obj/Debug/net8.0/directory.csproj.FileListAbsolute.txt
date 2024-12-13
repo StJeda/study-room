@@ -1,0 +1,15 @@
+D:\Jeda\study-room\directory\bin\Debug\net8.0\directory.exe
+D:\Jeda\study-room\directory\bin\Debug\net8.0\directory.deps.json
+D:\Jeda\study-room\directory\bin\Debug\net8.0\directory.runtimeconfig.json
+D:\Jeda\study-room\directory\bin\Debug\net8.0\directory.dll
+D:\Jeda\study-room\directory\bin\Debug\net8.0\directory.pdb
+D:\Jeda\study-room\directory\obj\Debug\net8.0\directory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jeda\study-room\directory\obj\Debug\net8.0\directory.AssemblyInfoInputs.cache
+D:\Jeda\study-room\directory\obj\Debug\net8.0\directory.AssemblyInfo.cs
+D:\Jeda\study-room\directory\obj\Debug\net8.0\directory.csproj.CoreCompileInputs.cache
+D:\Jeda\study-room\directory\obj\Debug\net8.0\directory.sourcelink.json
+D:\Jeda\study-room\directory\obj\Debug\net8.0\directory.dll
+D:\Jeda\study-room\directory\obj\Debug\net8.0\refint\directory.dll
+D:\Jeda\study-room\directory\obj\Debug\net8.0\directory.pdb
+D:\Jeda\study-room\directory\obj\Debug\net8.0\directory.genruntimeconfig.cache
+D:\Jeda\study-room\directory\obj\Debug\net8.0\ref\directory.dll
